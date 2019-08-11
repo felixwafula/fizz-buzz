@@ -1,0 +1,112 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\revature\\fizzbuzz\\FizzBuzz.Client\\FizzBuzz.Client.csproj": {}
+  },
+  "projects": {
+    "C:\\revature\\fizzbuzz\\FizzBuzz.Client\\FizzBuzz.Client.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\revature\\fizzbuzz\\FizzBuzz.Client\\FizzBuzz.Client.csproj",
+        "projectName": "FizzBuzz.Client",
+        "projectPath": "C:\\revature\\fizzbuzz\\FizzBuzz.Client\\FizzBuzz.Client.csproj",
+        "packagesPath": "C:\\Users\\waful\\.nuget\\packages\\",
+        "outputPath": "C:\\revature\\fizzbuzz\\FizzBuzz.Client\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\waful\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {
+              "C:\\revature\\fizzbuzz\\Library\\Library.csproj": {
+                "projectPath": "C:\\revature\\fizzbuzz\\Library\\Library.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "C:\\revature\\fizzbuzz\\Library\\Library.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\revature\\fizzbuzz\\Library\\Library.csproj",
+        "projectName": "Library",
+        "projectPath": "C:\\revature\\fizzbuzz\\Library\\Library.csproj",
+        "packagesPath": "C:\\Users\\waful\\.nuget\\packages\\",
+        "outputPath": "C:\\revature\\fizzbuzz\\Library\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\waful\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "dependencies": {
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}

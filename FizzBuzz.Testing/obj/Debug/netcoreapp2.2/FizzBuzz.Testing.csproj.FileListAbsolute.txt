@@ -1,0 +1,14 @@
+C:\revature\fizzbuzz\FizzBuzz.Testing\bin\Debug\netcoreapp2.2\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\revature\fizzbuzz\FizzBuzz.Testing\bin\Debug\netcoreapp2.2\xunit.runner.reporters.netcoreapp10.dll
+C:\revature\fizzbuzz\FizzBuzz.Testing\bin\Debug\netcoreapp2.2\xunit.runner.utility.netcoreapp10.dll
+C:\revature\fizzbuzz\FizzBuzz.Testing\bin\Debug\netcoreapp2.2\FizzBuzz.Testing.deps.json
+C:\revature\fizzbuzz\FizzBuzz.Testing\bin\Debug\netcoreapp2.2\FizzBuzz.Testing.runtimeconfig.json
+C:\revature\fizzbuzz\FizzBuzz.Testing\bin\Debug\netcoreapp2.2\FizzBuzz.Testing.runtimeconfig.dev.json
+C:\revature\fizzbuzz\FizzBuzz.Testing\bin\Debug\netcoreapp2.2\FizzBuzz.Testing.dll
+C:\revature\fizzbuzz\FizzBuzz.Testing\bin\Debug\netcoreapp2.2\FizzBuzz.Testing.pdb
+C:\revature\fizzbuzz\FizzBuzz.Testing\obj\Debug\netcoreapp2.2\FizzBuzz.Testing.csprojAssemblyReference.cache
+C:\revature\fizzbuzz\FizzBuzz.Testing\obj\Debug\netcoreapp2.2\FizzBuzz.Testing.csproj.CoreCompileInputs.cache
+C:\revature\fizzbuzz\FizzBuzz.Testing\obj\Debug\netcoreapp2.2\FizzBuzz.Testing.AssemblyInfoInputs.cache
+C:\revature\fizzbuzz\FizzBuzz.Testing\obj\Debug\netcoreapp2.2\FizzBuzz.Testing.AssemblyInfo.cs
+C:\revature\fizzbuzz\FizzBuzz.Testing\obj\Debug\netcoreapp2.2\FizzBuzz.Testing.dll
+C:\revature\fizzbuzz\FizzBuzz.Testing\obj\Debug\netcoreapp2.2\FizzBuzz.Testing.pdb

@@ -1,0 +1,14 @@
+C:\revature\fizzbuzz\FizzBuzz.Client\bin\Debug\netcoreapp2.2\FizzBuzz.Client.deps.json
+C:\revature\fizzbuzz\FizzBuzz.Client\bin\Debug\netcoreapp2.2\FizzBuzz.Client.runtimeconfig.json
+C:\revature\fizzbuzz\FizzBuzz.Client\bin\Debug\netcoreapp2.2\FizzBuzz.Client.runtimeconfig.dev.json
+C:\revature\fizzbuzz\FizzBuzz.Client\bin\Debug\netcoreapp2.2\FizzBuzz.Client.dll
+C:\revature\fizzbuzz\FizzBuzz.Client\bin\Debug\netcoreapp2.2\FizzBuzz.Client.pdb
+C:\revature\fizzbuzz\FizzBuzz.Client\bin\Debug\netcoreapp2.2\Library.dll
+C:\revature\fizzbuzz\FizzBuzz.Client\bin\Debug\netcoreapp2.2\Library.pdb
+C:\revature\fizzbuzz\FizzBuzz.Client\obj\Debug\netcoreapp2.2\FizzBuzz.Client.csprojAssemblyReference.cache
+C:\revature\fizzbuzz\FizzBuzz.Client\obj\Debug\netcoreapp2.2\FizzBuzz.Client.csproj.CoreCompileInputs.cache
+C:\revature\fizzbuzz\FizzBuzz.Client\obj\Debug\netcoreapp2.2\FizzBuzz.Client.AssemblyInfoInputs.cache
+C:\revature\fizzbuzz\FizzBuzz.Client\obj\Debug\netcoreapp2.2\FizzBuzz.Client.AssemblyInfo.cs
+C:\revature\fizzbuzz\FizzBuzz.Client\obj\Debug\netcoreapp2.2\FizzBuzz.Client.csproj.CopyComplete
+C:\revature\fizzbuzz\FizzBuzz.Client\obj\Debug\netcoreapp2.2\FizzBuzz.Client.dll
+C:\revature\fizzbuzz\FizzBuzz.Client\obj\Debug\netcoreapp2.2\FizzBuzz.Client.pdb

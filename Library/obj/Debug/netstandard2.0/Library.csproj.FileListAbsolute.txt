@@ -1,0 +1,9 @@
+C:\revature\fizzbuzz\Library\bin\Debug\netstandard2.0\Library.deps.json
+C:\revature\fizzbuzz\Library\bin\Debug\netstandard2.0\Library.dll
+C:\revature\fizzbuzz\Library\bin\Debug\netstandard2.0\Library.pdb
+C:\revature\fizzbuzz\Library\obj\Debug\netstandard2.0\Library.csprojAssemblyReference.cache
+C:\revature\fizzbuzz\Library\obj\Debug\netstandard2.0\Library.csproj.CoreCompileInputs.cache
+C:\revature\fizzbuzz\Library\obj\Debug\netstandard2.0\Library.AssemblyInfoInputs.cache
+C:\revature\fizzbuzz\Library\obj\Debug\netstandard2.0\Library.AssemblyInfo.cs
+C:\revature\fizzbuzz\Library\obj\Debug\netstandard2.0\Library.dll
+C:\revature\fizzbuzz\Library\obj\Debug\netstandard2.0\Library.pdb
